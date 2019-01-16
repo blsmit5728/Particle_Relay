@@ -4,6 +4,8 @@ Inspiration Relay board: https://www.sparkfun.com/products/15093
 
 Main Controller to be used: https://docs.particle.io/datasheets/wi-fi/photon-datasheet/
 
+Parts Repository: https://github.com/sparkfun/SparkFun-Eagle-Libraries
+
 Power Input Requested: USB MicroB or MiniB at 5VDC
 
 Use Case:
